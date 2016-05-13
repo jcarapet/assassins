@@ -1,9 +1,11 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+For the Sheer sake of boredom, I decided to try my hand at Ruby on Rails. 
+Application of choice is a webpage that will help run an assassins game for a group. 
 
-Things you may want to cover:
+if you do not know what it is, visit the link https://www.theassassingame.com/welcome
+Yeah, it's a site already designed to do this, I just wanted to write my own for practice. 
+
 
 * Ruby version
 
